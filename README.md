@@ -1,3 +1,5 @@
+[![MasterHead](github_banner.png)]
+
 <h1 align="center">Hey✌️, I am Finn!</h1>
 <h3 align="center">On my way to becoming a developer!</h3>
 
@@ -6,7 +8,8 @@
 
 </br>
 </br>
-</br>
+</br
+  
 <img align="right" height=230 width=330 src="i1.gif" />
 
 <h3 align="left">About Me:</h3>
