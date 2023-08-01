@@ -1,6 +1,8 @@
 <h1 align="center">Hey✌️, I am Finn!</h1>
 <h3 align="center">On my way to becoming a developer!</h3>
-<img align="right" widht="1" src="icon1.gif">
+
+<img alt="Coder GIF" height=250 width=350 src="i1.gif" />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=finnnh&label=Profile%20views&color=8929ff&style=flat" alt="finnnh" /> </p>
 </br>
