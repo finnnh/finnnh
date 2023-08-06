@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/finnnh/finnnh/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Quote" />
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=finnnh&theme=dark" alt="finnnh" /></p>
 
