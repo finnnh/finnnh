@@ -1,9 +1,3 @@
-![MasterHead](github_banner.png)
-
-<h1 align="center">Hey✌️, I am Finn!</h1>
-<h3 align="center">I started my journey as a developer</h3>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=finnnh&label=Profile%20views&color=8929ff&style=flat" alt="finnnh" /> </p>
 
 </br>
