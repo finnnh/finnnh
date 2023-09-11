@@ -1,8 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=finnnh&label=Profile%20views&color=8929ff&style=flat" alt="finnnh" /> </p>
 
 </br>
-</br>
-</br>
 
 <h3 align="left">About Me:</h3>
 
@@ -10,11 +8,6 @@
 
 🖥️ I’m currently working on » [Car-Rental](https://github.com/finnnh/Car-Rental)
 
-💡 I’m currently learning » **Springboot & Kotlin**
-
-📫 How to reach me » **fihoffmann@web.de**
-
-</br>
 </br>
 
 <h3 align="left">Connect with me:</h3>
@@ -32,9 +25,6 @@
 <h3 align="left">Things on my Roadmap:</h3>
 <p align="left"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </a>  </p>
-
-<h3 align="left">Random Dev Quote:</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Quote" />
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=finnnh&theme=dark" alt="finnnh" /></p>
 
